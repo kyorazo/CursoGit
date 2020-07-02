@@ -1,3 +1,3 @@
-# CursoGit
+# Curso Git
 
 Adicionando uma linha
